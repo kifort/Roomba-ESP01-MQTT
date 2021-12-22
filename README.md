@@ -1,5 +1,6 @@
-# ESP-01_Roomba
+# Roomba ESP01 MQTT
 
-An arduino program to add MQTT commands to your roomba 500 or 600 series.
+An arduino program to access roomba 600 series equipped with ESP 01 WiFi chip via MQTT.
 
-https://www.youtube.com/watch?v=t2NgA8qYcFI
+Started from https://www.youtube.com/watch?v=t2NgA8qYcFI
+Forked from https://github.com/thehookup/MQTT-Roomba-ESP01
